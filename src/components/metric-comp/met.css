@@ -1,0 +1,21 @@
+.mcomp{
+    border: 2px solid rgb(184, 173, 173);
+    display: inline-block;
+    width: 300px;
+    height: 80px;
+    margin: 10px 20px;
+    box-shadow: 100px;
+    background-color: white;
+    padding: 10px;
+}
+.money{
+ margin-bottom: 30px;
+ /* border: 2px solid black; */
+}
+.text{
+    /* margin-bottom: 70px; */
+    /* border: 2px solid black; */
+    margin-bottom: 0px;
+
+}
+
